@@ -2,4 +2,6 @@
 
 Facemash on php + mysql + javascript(ajax + jquery) + html + css
 
-P. S. If you think that this project is about reducing face to an uniform mass by crushing it, probably something is going wrong in your life. As a drug watch The Social Network and you'll understand what this project is about.
+Facemash is a service that allows users to rate the attractiveness of people. (http://www.atenwood.com/facemash/)
+
+Here we try to make it buy ourselves
