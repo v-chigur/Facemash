@@ -1,0 +1,40 @@
+h2 {
+	margin-top: -61px;
+    text-align:center;
+    color:#FFFF00;
+    font-size:40px;
+}
+h3 {
+    text-align:center;
+    font-size: 40px;
+    padding-top: 300px;
+}
+a {
+	color: black;
+}
+.reg {
+    border: 0px solid #FFFF00;
+    text-align:right;
+    font-size:20px;
+    color: grey;
+}
+
+.reg li{
+    display:inline;
+}
+
+.nav {
+	background-color: #FFFF00;
+    border:1px solid #FFFF00;
+    border-top-width: 10px;
+    border-bottom-width: 10px;
+    text-align:left;
+    font-size: 20px;
+}
+.nav li{
+    display:inline;
+}
+
+.nav li:not(:first-child):before {
+    content: " | ";
+}
